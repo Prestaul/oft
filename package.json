@@ -1,6 +1,6 @@
 {
   "name": "oft",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A simple cron-like library for triggering tasks at regular intervals.",
   "main": "index.js",
   "author": "Matt Dunlap <mpdunlap@gmail.com>",
